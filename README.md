@@ -1,1 +1,2 @@
-# Rubiks-Cube-Club
+# Rubiks Cube Club Website
+Official Website.
